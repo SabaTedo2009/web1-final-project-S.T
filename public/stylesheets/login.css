@@ -1,0 +1,36 @@
+
+*{
+background-color: #00B7FF;
+}
+.container1 {
+    max-width: 420px;
+    text-align: center;
+}
+
+
+input[type="email"] {
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+input[type="password"] {
+    padding: 12px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: white;
+}
+.button1 {
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 5px;
+    position: relative;
+    top: 10px;
+    background-color: white;
+    color: black;
+}
+button1 : hover {
+    background-color: black;
+    color: white;
+
+}
